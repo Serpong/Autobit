@@ -5,9 +5,14 @@
 
 <br/>
 
+*Autobit - Frontend + Backend : [Autobit](https://github.com/Serpong/Autobit)*  
+*Autobit - Python data server : [Autobit-python-server](https://github.com/Serpong/Autobit-python-server)*  
+
+<br/>
+
 ## 👍 Autobit 요약
  - 트레이딩 전략을 사이트에서 바로 코딩해 볼 수 있습니다.
- - 과거의 가격 데이터를 이용해서 전략의 승률, 수익률 등을 실시간으로 검사해 볼 수 있습니다. (=***백테스팅***)  
+ - 과거의 가격 데이터를 이용해서 전략의 승률, 수익률 등을 실시간으로 검사해 볼 수 있습니다. (=**백테스팅**)  
  - 다른 유저들의 트레이딩 전략을 구경하거나 나의 전략을 공유할 수 있습니다.  
  - 실시간 코인 차트에서 코인의 매수, 매도 타이밍을 실시간으로 확인 할 수 있습니다.
 
